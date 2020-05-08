@@ -1,0 +1,6 @@
+<resources>
+    <array name="arrayTypes">
+        <item>C347</item>
+    </array>
+    <string name="app_name">Class Journal</string>
+</resources>
